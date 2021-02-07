@@ -1,2 +1,2 @@
-# Dockerized flask app ready for deployment on Heroku
+# Dockerized flask app template ready for deployment on Heroku
 
