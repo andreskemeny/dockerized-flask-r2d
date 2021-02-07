@@ -9,7 +9,7 @@ Dockerized flask app template ready for deployment on Heroku
 1. Create the virtual environment you will be using locally
 2. Install the required packages by activating the venv and running 
 `pip install -r requirements.txt`
-3. Make the changes you want and need to the endpoints in app.py
+3. Make the changes you want and need to the endpoints in `app.py`
 
 For testing build and run the docker container locally
 
